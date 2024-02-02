@@ -1,6 +1,6 @@
 import stepic
 from PIL import Image
-key='This is the signature'
+key='this is the embeded text'
 file=input("file: ")
 
 img=Image.open(file)
